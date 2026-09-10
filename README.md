@@ -22,7 +22,17 @@ x install tredis
 - **Latest**: `v1.2.0` (2026-02-03)
 - **Last commit**: 2026-03-06
 - **Assets in release**: 6
-- **Published**: 2026-02-03T10:17:58Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/huseyinbabal/tredis/releases/download/v1.2.0/checksums.txt) | 514 B | `other` |
+| [tredis-aarch64-apple-darwin.tar.gz](https://github.com/huseyinbabal/tredis/releases/download/v1.2.0/tredis-aarch64-apple-darwin.tar.gz) | 1.6 MiB | `native/darwin/arm64` |
+| [tredis-aarch64-unknown-linux-musl.tar.gz](https://github.com/huseyinbabal/tredis/releases/download/v1.2.0/tredis-aarch64-unknown-linux-musl.tar.gz) | 4.1 MiB | `native/linux/arm64/musl` |
+| [tredis-x86_64-apple-darwin.tar.gz](https://github.com/huseyinbabal/tredis/releases/download/v1.2.0/tredis-x86_64-apple-darwin.tar.gz) | 1.7 MiB | `native/darwin/x64` |
+| [tredis-x86_64-pc-windows-msvc.zip](https://github.com/huseyinbabal/tredis/releases/download/v1.2.0/tredis-x86_64-pc-windows-msvc.zip) | 1.4 MiB | `native/win/x64` |
+| [tredis-x86_64-unknown-linux-musl.tar.gz](https://github.com/huseyinbabal/tredis/releases/download/v1.2.0/tredis-x86_64-unknown-linux-musl.tar.gz) | 3.9 MiB | `native/linux/x64/musl` |
 
 ## Popularity
 
@@ -56,8 +66,8 @@ Total: **4,700** lines of code across **25** files in the top 5 languages.
 Install metadata for tredis lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tredis` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/tredis.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/tredis.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:35:31Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:14:50Z._

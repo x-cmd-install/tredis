@@ -4,7 +4,7 @@
 
 Terminal UI for Redis (tredis) - A terminal-based Redis data viewer and manager
 
-![tredis](https://repo.x-cmd.io/tredis.svg)
+![tredis](https://repo.x-cmd.io/tredis.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,17 @@ x install tredis
 - **最新版本**: `v1.2.0` (2026-02-03)
 - **最近提交**: 2026-03-06
 - **Release 含资产**: 6 个
-- **发布时间**: 2026-02-03T10:17:58Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/huseyinbabal/tredis/releases/download/v1.2.0/checksums.txt) | 514 B | `other` |
+| [tredis-aarch64-apple-darwin.tar.gz](https://github.com/huseyinbabal/tredis/releases/download/v1.2.0/tredis-aarch64-apple-darwin.tar.gz) | 1.6 MiB | `native/darwin/arm64` |
+| [tredis-aarch64-unknown-linux-musl.tar.gz](https://github.com/huseyinbabal/tredis/releases/download/v1.2.0/tredis-aarch64-unknown-linux-musl.tar.gz) | 4.1 MiB | `native/linux/arm64/musl` |
+| [tredis-x86_64-apple-darwin.tar.gz](https://github.com/huseyinbabal/tredis/releases/download/v1.2.0/tredis-x86_64-apple-darwin.tar.gz) | 1.7 MiB | `native/darwin/x64` |
+| [tredis-x86_64-pc-windows-msvc.zip](https://github.com/huseyinbabal/tredis/releases/download/v1.2.0/tredis-x86_64-pc-windows-msvc.zip) | 1.4 MiB | `native/win/x64` |
+| [tredis-x86_64-unknown-linux-musl.tar.gz](https://github.com/huseyinbabal/tredis/releases/download/v1.2.0/tredis-x86_64-unknown-linux-musl.tar.gz) | 3.9 MiB | `native/linux/x64/musl` |
 
 ## 流行度
 
@@ -60,4 +70,4 @@ tredis 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:35:31Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:14:50Z._
