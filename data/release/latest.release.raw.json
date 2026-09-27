@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 514,
       "digest": "sha256:35f4fdcef553c526851be224a5392e6aecbd6f90172d3e02acf2085458237950",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-02-03T10:17:57Z",
       "updated_at": "2026-02-03T10:17:57Z",
       "browser_download_url": "https://github.com/huseyinbabal/tredis/releases/download/v1.2.0/checksums.txt"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4099586,
       "digest": "sha256:1dd74162fc238b4eade54312259390a4184b827627b9a624814db8c4e0d59143",
-      "download_count": 202,
+      "download_count": 206,
       "created_at": "2026-02-03T10:17:57Z",
       "updated_at": "2026-02-03T10:17:57Z",
       "browser_download_url": "https://github.com/huseyinbabal/tredis/releases/download/v1.2.0/tredis-x86_64-unknown-linux-musl.tar.gz"
