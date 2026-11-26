@@ -36,7 +36,7 @@ Total: **4,700** lines of code across **25** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 169 · **Forks**: 8 · **Open issues**: 3 · **Contributors**: 2
+- **Stars**: 170 · **Forks**: 8 · **Open issues**: 3 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -46,12 +46,12 @@ Total: **4,700** lines of code across **25** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-27 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-29 | 0 | 0 | 1 | 0 | 0 | 0 |
-| 360d | 2025-11-30 | 10 | 3 | 2 | 2 | 1 | 38 |
-| last720d | 2024-12-05 | 10 | 3 | 2 | 2 | 1 | 43 |
+| 30d | 2026-10-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-09-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-08-28 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-05-30 | 0 | 0 | 1 | 0 | 0 | 0 |
+| 360d | 2025-12-01 | 10 | 3 | 2 | 2 | 1 | 38 |
+| last720d | 2024-12-06 | 10 | 3 | 2 | 2 | 1 | 43 |
 
 ## Release assets
 
@@ -64,10 +64,6 @@ Total: **4,700** lines of code across **25** files in the top 5 languages.
 | [tredis-x86_64-pc-windows-msvc.zip](https://github.com/huseyinbabal/tredis/releases/download/v1.2.0/tredis-x86_64-pc-windows-msvc.zip) | 1.4 MiB | `native/win/x64` |
 | [tredis-x86_64-unknown-linux-musl.tar.gz](https://github.com/huseyinbabal/tredis/releases/download/v1.2.0/tredis-x86_64-unknown-linux-musl.tar.gz) | 3.9 MiB | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **2** distros on [repology.org](https://repology.org/project/tredis). **2** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
 ## Improve this data
 
 Install metadata for tredis lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tredis` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -77,4 +73,4 @@ Install metadata for tredis lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:29:32Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:21:23Z._
